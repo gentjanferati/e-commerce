@@ -1,0 +1,15 @@
+.signin {
+    display: flex;;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.form {
+    width: 500px;
+    height: 50px;
+}
+input[type="submit"] {
+    height: 3.6rem;
+    width: 8.6rem;
+  }

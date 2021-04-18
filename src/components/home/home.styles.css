@@ -1,0 +1,12 @@
+.promotions {
+width: 100%;
+height: 300px;   
+background-color: aqua;
+}
+.categories {
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+}
